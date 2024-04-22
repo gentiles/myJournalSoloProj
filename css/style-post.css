@@ -55,7 +55,7 @@ nav h1{
 /* ###### MAIN BANNER ######*/
 
 .main-banner {
-    background-image: url(images/main-banner.png);
+    background-image: url(/images/main-banner.png);
      background-repeat: no-repeat;
      -webkit-background-size: cover;
      -moz-background-size: cover;

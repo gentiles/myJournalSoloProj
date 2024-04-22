@@ -51,8 +51,8 @@ nav h1{
 }
 
 /* ###### MAIN BANNER ######*/
-section  {
-    background-image: url(images/main-banner.png);
+main  {
+    background-image: url(/images/main-banner.png);
      background-repeat: no-repeat;
      -webkit-background-size: cover;
      -moz-background-size: cover;
@@ -61,10 +61,14 @@ section  {
      padding: 10em 3em;
       max-width: 100%;
       height: 30em;
-      color:#fff;
       display: block;
+     
 }
-
+.banner {
+    font-family: "roboto" , sans-serif;
+    color:#fff;
+    line-height: 2em;
+}
 .banner {
     width: 100%;
     margin: 4em 1.2em;
